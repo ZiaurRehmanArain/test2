@@ -1,0 +1,4 @@
+package install 
+react-redux
+redux
+react-thunk
